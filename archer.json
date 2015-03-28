@@ -1,0 +1,6 @@
+{
+    "bot_host": "localhost:1234",
+    "channels": [
+        "#channel"
+    ]
+}

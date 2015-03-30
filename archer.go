@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/jebjerg/go-bot/bot"
-	cfg "github.com/jebjerg/go-bot/bot/config"
 	"github.com/cenkalti/rpc2"
 	irc "github.com/fluffle/goirc/client"
+	"github.com/jebjerg/go-bot/bot"
+	cfg "github.com/jebjerg/go-bot/bot/config"
 	"math/rand"
 	"net"
 	"strings"
